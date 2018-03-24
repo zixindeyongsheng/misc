@@ -1,3 +1,4 @@
+#!/Users/wangjinghui/anaconda3/bin/python3
 from functools import reduce
 class palindromic(object):
     class node(object):
